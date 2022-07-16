@@ -4,7 +4,7 @@ In this project, I will query **` the Chinook Database`**. The Chinook Database 
 
 
 by coming up with **4 questions** that can be answered with **SQL**. 
-And I will visualize the results and represent them in a **report**. 
+And visualize the results and represent them in a **report**. 
 ## Entity Relationship Diagram (the schema)
 You can see the columns that link tables together via the arrows.
 
